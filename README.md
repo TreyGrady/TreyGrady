@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Microsoft Sentinel Lab</b>
+  - [Extracting Geolocation from failed RDP](https://github.com/TreyGrady/Custom_Security_Log_Exporter)
 
 
 <h2>Certifications</h2>
