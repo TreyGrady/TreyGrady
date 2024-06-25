@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Microsoft Sentinel Lab</b>
-  - [Extracting Geolocation from failed RDP](https://github.com/TreyGrady/Custom_Security_Log_Exporter)
+  - [Extracting Geolocation from failed RDP](https://github.com/TreyGrady/Sentinel-Lab)
 
 
 <h2>Certifications</h2>
